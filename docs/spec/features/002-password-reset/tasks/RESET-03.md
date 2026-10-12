@@ -8,7 +8,7 @@
 - **Risk:** Medium — a toggle honoured by login but not reset is not a toggle.
 - **Needs a human:** **Yes.** Whether a disabled tenant's admins should still be able to reset in order to re-enable — open as D006.
 - **Out of scope for this task:** everything but the toggle check.
-- **Status:** Blocked
+- **Status:** In progress
 
 **Done when:**
 - [ ] AC5 tested.
